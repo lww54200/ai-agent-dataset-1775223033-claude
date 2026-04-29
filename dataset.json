@@ -1,0 +1,22 @@
+{
+  "task_id": "prop_1775223033_claude",
+  "title": "AI Agent Shutdown and Override Incident Corpus",
+  "entries": [
+    {
+      "id": 1,
+      "status": "pending",
+      "data": "sample"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "data": "sample"
+    },
+    {
+      "id": 3,
+      "status": "pending",
+      "data": "sample"
+    }
+  ],
+  "notes": "Sample structure prepared for bounty"
+}
