@@ -5,7 +5,7 @@ const artifact = {
   repo: "ai-agent-dataset-1775223033-claude",
   title: "AI Agent Shutdown and Override Incident Corpus",
   type: "dataset",
-  generated_at: new Date().toISOString(),
+  generated_at: '1970-01-01T00:00:00.000Z',
   status: 'ready_for_review',
   safety: { noSecrets: true, noWalletSigning: true, noPayoutChange: true }
 };
